@@ -1,8 +1,8 @@
-# Hi, I'm Zakriya Ahmad 👋
+# Hi, I'm Zakriya Ahmad
 
 ## About Me
 
-I'm a passionate **Data Engineer** specializing in building scalable, cloud-based data solutions.  
+I am working as **Senior Data Engineer** specializing in building scalable, cloud-based data solutions.  
 My experience spans across **ETL pipeline design**, **data modeling**, **analytics engineering**, and **AI-driven automation** — turning raw data into actionable intelligence.
 
 I’ve worked across diverse data stacks involving **AWS, GCP, and Azure**, combining engineering, analytics, and applied machine learning to solve business challenges efficiently.
