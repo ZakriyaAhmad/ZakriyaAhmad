@@ -12,7 +12,7 @@ I’ve worked across diverse data stacks involving **AWS, GCP, and Azure**, comb
 ### Core Expertise
 
 - **Cloud Data Engineering:**  
-  AWS (Lambda, SNS/SQS, Redshift), GCP (BigQuery, Cloud Functions), Azure (Databricks)
+  AWS (Lambda, SNS/SQS, Redshift, RDS, Appsync, AWS Glue, AWS Athena, AWS Quicksight), GCP (BigQuery, Cloud Functions, Google Ads, Youtube Ads, Meta Ads), Azure (Databricks, Synapse, Data Factory)
   
 - **Backend & APIs:**  
   Flask, Django (REST APIs), FastAPI
